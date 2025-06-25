@@ -1,2 +1,4 @@
 django-admin startproject setup .
 python manage.py startapp reviews
+
+python manage.py migrate
